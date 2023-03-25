@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e0d07326a97b8a202932d1df09577f04",
+    "content-hash": "8d719ad8cfb6c8744da338f9d7a2a0ca",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -438,56 +438,6 @@
             "time": "2022-02-28T11:07:21+00:00"
         },
         {
-            "name": "drupal/bootstrap5",
-            "version": "3.0.5",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/bootstrap5.git",
-                "reference": "3.0.5"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/bootstrap5-3.0.5.zip",
-                "reference": "3.0.5",
-                "shasum": "c4a4c01b7dd292e3fe1031be1c6b0224e1f4ee1d"
-            },
-            "require": {
-                "drupal/core": "^9.4 || ^10"
-            },
-            "type": "drupal-theme",
-            "extra": {
-                "drupal": {
-                    "version": "3.0.5",
-                    "datestamp": "1677943395",
-                    "security-coverage": {
-                        "status": "covered",
-                        "message": "Covered by Drupal's security advisory policy"
-                    }
-                }
-            },
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "Vladimir Roudakov (vladimiraus)",
-                    "homepage": "https://www.drupal.org/u/vladimiraus",
-                    "role": "Maintainer"
-                },
-                {
-                    "name": "VladimirAus",
-                    "homepage": "https://www.drupal.org/user/673120"
-                }
-            ],
-            "description": "Master theme using Bootstrap 5: powerful front-end framework for faster and easier web development.",
-            "homepage": "https://www.drupal.org/project/bootstrap5",
-            "support": {
-                "source": "https://git.drupalcode.org/project/bootstrap5",
-                "issues": "https://www.drupal.org/project/issues/bootstrap5"
-            }
-        },
-        {
             "name": "drupal/core",
             "version": "10.0.5",
             "source": {
@@ -814,6 +764,50 @@
                 "source": "https://github.com/drupal/core-recommended/tree/10.0.5"
             },
             "time": "2023-03-15T14:30:13+00:00"
+        },
+        {
+            "name": "drupal/uswds_base",
+            "version": "3.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/uswds_base.git",
+                "reference": "3.3.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/uswds_base-3.3.0.zip",
+                "reference": "3.3.0",
+                "shasum": "294b03826ccb6e0c022b35148dcb8127b672d3d8"
+            },
+            "require": {
+                "drupal/core": "^9 || ^10"
+            },
+            "type": "drupal-theme",
+            "extra": {
+                "drupal": {
+                    "version": "3.3.0",
+                    "datestamp": "1679447868",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "mferanda",
+                    "homepage": "https://www.drupal.org/user/3541484"
+                }
+            ],
+            "description": "Drupal USWDS Base Theme - The U.S. Web Design System provides design guidelines and code to help you quickly create trustworthy, accessible, and consistent digital government services.",
+            "homepage": "https://www.drupal.org/project/uswds_base",
+            "support": {
+                "source": "https://git.drupalcode.org/project/uswds_base"
+            }
         },
         {
             "name": "egulias/email-validator",
