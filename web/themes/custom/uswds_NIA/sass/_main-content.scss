@@ -1,0 +1,17 @@
+main{
+
+	&.main-content{
+		padding-top: 0;
+		border-top:none !important;
+
+		.grid-container{
+			background-color: #ffffff;
+			background-clip: content-box;
+
+			.grid-row{
+				padding: 1rem;
+			}
+			
+		}
+	}
+}

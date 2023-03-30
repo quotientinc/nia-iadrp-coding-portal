@@ -1,0 +1,26 @@
+header{
+	&.usa-header{
+		.usa-nav-container{
+			background: url('../img/custom/bgHeaderNia.png') no-repeat center;
+			background-size: contain;
+			height:95px;
+			align-items: initial;
+			background-clip: content-box;
+
+			.usa-nav{
+				align-items: initial;
+
+				.usa-nav__primary{
+
+					.usa-nav__primary-item{
+
+						.usa-nav__link{
+							padding: 0.3rem 0.5rem;
+						}
+					}
+				}
+			}
+		}
+	}
+
+}

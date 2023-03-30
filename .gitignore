@@ -64,3 +64,4 @@
 /web/modules/contrib/
 /web/themes/contrib/
 /web/profiles/contrib/
+/web/themes/custom/*/node_modules

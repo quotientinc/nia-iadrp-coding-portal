@@ -21,3 +21,7 @@ i.e.
 */
 
 @use "uswds-core" as *;
+@use "body";
+@use "header";
+@use "breadcrumb";
+@use "main-content";

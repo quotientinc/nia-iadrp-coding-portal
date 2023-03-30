@@ -15,12 +15,15 @@ uswds.settings.version = 3;
 
 uswds.paths.src.uswds = "./node_modules/@uswds";
 uswds.paths.src.sass = "./node_modules/@uswds/uswds/packages";
+uswds.paths.src.projectSass = "./sass";
 uswds.paths.src.js = "./node_modules/@uswds/uswds/dist/js";
 uswds.paths.src.fonts = "./node_modules/@uswds/uswds/dist/fonts";
+uswds.paths.src.img = "./node_modules/@uswds/uswds/dist/img";
 uswds.paths.dist.css = './css';
-uswds.paths.dist.theme = './sass';
+//uswds.paths.dist.theme = './sass';
 uswds.paths.dist.js = './js';
 uswds.paths.dist.fonts = './fonts';
+uswds.paths.dist.img = './img';
 
 /**
  * Exports
