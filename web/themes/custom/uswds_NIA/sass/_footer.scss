@@ -1,0 +1,36 @@
+footer{
+
+	&.usa-footer{
+		margin-bottom: 3rem;
+
+		.usa-footer__return-to-top{
+			background-color: #ffffff;
+			display: flex;
+			justify-content: flex-end;
+			background-clip: content-box;
+			padding-top: 0;
+			padding-bottom: 0;
+
+			.grid-row{
+				padding: 1rem;
+				margin-right:0;
+
+			}
+		}
+
+		.usa-footer__primary-section{
+			background-color: #cdcbc6;
+
+			.grid-container{
+				background-color: #ffffff;
+				background-clip: content-box;
+				flex: 1;
+
+				.grid-row{
+					padding: 1rem;
+				}
+				
+			}
+		}
+	}
+}

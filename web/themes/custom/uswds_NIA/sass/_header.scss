@@ -1,12 +1,25 @@
 header{
 	&.usa-header{
 		.usa-nav-container{
-			background: url('../img/custom/bgHeaderNia.png') no-repeat center;
-			background-size: contain;
+			background: url('../img/custom/coding_portal_bg.png') no-repeat center;
 			height:95px;
 			align-items: initial;
 			background-clip: content-box;
 
+			.usa-navbar{
+				height: 95px;
+				width: auto;
+			    position: absolute;
+			    max-width: 60rem;
+
+			    .usa-logo{
+			    	margin-left: 0.5rem;
+
+			    	.usa-logo__text{
+			    		font-size: 1.15rem;
+			    	}
+			    }
+			}
 			.usa-nav{
 				align-items: initial;
 
