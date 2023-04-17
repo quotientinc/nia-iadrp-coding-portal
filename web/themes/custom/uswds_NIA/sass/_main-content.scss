@@ -12,9 +12,14 @@ main{
 			background-color: #ffffff;
 			background-clip: content-box;
 			flex: 1;
+			width: 100%;
 
 			.grid-row{
 				padding: 1rem;
+				
+				.field--name-title{
+					word-wrap: break-word;
+				}
 			}
 			
 		}

@@ -1,0 +1,30 @@
+table{
+   
+   .icon-link{
+      text-decoration: none;
+
+      .usa-icon{
+         height: 1.2em;
+         width: 1.2em;
+
+      }
+   }
+}
+
+.usa-table-container--scrollable{
+   clear: right;
+   display: grid;
+
+   td{
+      white-space: initial;
+
+   }
+}
+#views-exposed-form-dataset-details-block-1{
+   float: right;
+   margin-bottom: 2rem;
+
+   .form-actions{
+      float:right;
+   }
+}
