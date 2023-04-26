@@ -20,14 +20,21 @@
  * @ingroup themeable
  */
 #}
-<a href="/feed/{{ output }}/log" class="icon-link">
-<svg aria-labelledby="revision-title-{{ output }}" class="usa-icon" role="img"><title id="revision-title-{{ output }}">View Log History for Dataset</title><use xlink:href="/{{ base_path ~ directory }}/assets/uswds/img/sprite.svg#history"></use></svg>
-</a>
+{% if is_front %}
+    <div class="opertations-container">
+        <a href="/feed/{{ output }}/log" class="icon-link">
+        <svg aria-labelledby="revision-title-{{ output }}" class="usa-icon" role="img"><title id="revision-title-{{ output }}">View Log History for Dataset</title><use xlink:href="/{{ base_path ~ directory }}/assets/uswds/img/sprite.svg#history"></use></svg>
+        </a>
 
-<a href="/feed/{{ output }}/export" class="icon-link">
-<svg aria-labelledby="download-title-{{ output }}" class="usa-icon" role="img"><title id="download-title-{{ output }}">Download Dataset</title><use xlink:href="/{{ base_path ~ directory }}/assets/uswds/img/sprite.svg#file_download"></use></svg>
-</a>
+        <a href="/feed/{{ output }}/export" class="icon-link">
+        <svg aria-labelledby="download-title-{{ output }}" class="usa-icon" role="img"><title id="download-title-{{ output }}">Download Dataset</title><use xlink:href="/{{ base_path ~ directory }}/assets/uswds/img/sprite.svg#file_download"></use></svg>
+        </a>
 
-<a href="/feed/{{ output }}/delete?destination=/" class="icon-link">
-<svg aria-labelledby="delete-title-{{ output }}" class="usa-icon" role="img"><title id="delete-title-{{ output }}">Delete Dataset</title><use xlink:href="/{{ base_path ~ directory }}/assets/uswds/img/sprite.svg#delete"></use></svg>
-</a>
+        <a href="/feed/{{ output }}/delete-items?destination=/feed/{{ output }}/delete" class="icon-link">
+        <svg aria-labelledby="delete-title-{{ output }}" class="usa-icon" role="img"><title id="delete-title-{{ output }}">Delete Dataset</title><use xlink:href="/{{ base_path ~ directory }}/assets/uswds/img/sprite.svg#delete"></use></svg>
+        </a>
+    </div>
+
+{% else %}
+    {{ output -}}
+{% endif %}

@@ -26,3 +26,12 @@ function uswds_NIA_preprocess_menu_local_action(&$variables) {
   $variables['link']['#options']['attributes']['class'][] = 'usa-button--secondary';
   $variables['link']['#options']['attributes']['class'][] = 'usa-button-outline';
 }
+
+function uswds_NIA_preprocess_views_view_field(&$variables) {
+  try {
+    $variables['is_front'] = \Drupal::service('path.matcher')->isFrontPage();
+  }
+  catch (Exception $e) {
+    $variables['is_front'] = FALSE;
+  }
+}

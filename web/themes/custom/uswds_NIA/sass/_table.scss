@@ -18,6 +18,10 @@ table{
    td{
       white-space: initial;
 
+      .opertations-container{
+         display: inline-flex;
+      }
+
    }
 }
 #views-exposed-form-dataset-details-block-1{
