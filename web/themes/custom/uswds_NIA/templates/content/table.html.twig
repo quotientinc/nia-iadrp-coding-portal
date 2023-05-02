@@ -72,7 +72,6 @@
 
   {% if rows %}
     <tbody>
-    {{ dpm(rows) }}
       {% for row in rows %}
         <tr{{ row.attributes }}>
           {% for cell in row.cells %}
