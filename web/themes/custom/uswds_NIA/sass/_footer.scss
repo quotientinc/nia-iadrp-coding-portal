@@ -22,12 +22,33 @@ footer{
 			background-color: #cdcbc6;
 
 			.grid-container{
-				background-color: #ffffff;
+				background-color: #ebebeb;
 				background-clip: content-box;
 				flex: 1;
 
 				.grid-row{
 					padding: 1rem;
+
+					.menu--footer{
+						line-height: 1.5;
+						
+						span{
+							
+							&:after { 
+								content: "|" 
+							}
+							&.last:after{
+								content:"";
+							}
+
+							a{
+								padding-left: 0.5em;
+	    						padding-right: 0.5em;
+
+	    						
+							}
+						}
+					}
 				}
 				
 			}

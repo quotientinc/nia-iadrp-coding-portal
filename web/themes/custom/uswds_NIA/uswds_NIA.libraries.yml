@@ -8,5 +8,9 @@ assets:
     js/uswds.min.js: {}
   dependencies:    
     - core/jquery #Just to be safe
+    - core/drupal.ajax
     - core/drupal.dialog.ajax #Required for dialogs
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.once
     - core/jquery.form #If you also want to use Ajax for form operations
