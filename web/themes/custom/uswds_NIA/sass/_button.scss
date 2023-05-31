@@ -10,3 +10,12 @@
       margin: 5px;
    }
 }
+.usa-button{
+   &.disabled{
+      -moz-osx-font-smoothing: grayscale;
+       -webkit-font-smoothing: antialiased;
+       background-color: #c9c9c9;
+       color: #fff;
+       cursor: default;
+   }
+} 

@@ -6,6 +6,7 @@ assets:
   js:
     js/uswds-init.min.js: {}
     js/uswds.min.js: {}
+    js/uswds_NIA.js: {}
   dependencies:    
     - core/jquery #Just to be safe
     - core/drupal.ajax

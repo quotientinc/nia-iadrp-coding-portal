@@ -94,9 +94,19 @@
     {# dpm(content) #}
     <hr>
     <div class="grid-row">
+      <a href="#" id="prevProjectBtn" class="usa-button usa-button--accent-cool">Previous</a>
+      <a href="#" id="nextProjectBtn" class="usa-button usa-button--accent-cool">Next</a>
+      <strong class="project-index">
+        Row 
+        <span id="currentProjectIndex"></span>
+        of 
+        <span id="projectTotal"></span>
+      </strong>
+    </div>
+    <div class="grid-row">
       <div class="tablet:grid-col-8 margin-bottom-2">
-        <h2 class="display-inline-flex">Id:</h2> 
-        <span class="display-inline-flex text-bold">{{ content.field_id }} </span>
+        <h2 class="display-inline-flex">Project Number:</h2> 
+        <span class="display-inline-flex text-bold" id="projectNumber">{{ content.field_project_number }} </span>
         <h2>Abstract</h2>
         <div class="abstract-container">
           {{ content.field_abstract }}

@@ -26,7 +26,14 @@ main{
     				border: 1px solid;
     				background-color: #f5fbff;
 				}
-				
+				.project-index{
+					margin: auto 0;
+					font-size: 1.2rem;
+				}
+				.dataset-details-prev-next{
+					display:none;
+				}				
+
 				.right-body{
 
 					@media (min-width: 40em){
