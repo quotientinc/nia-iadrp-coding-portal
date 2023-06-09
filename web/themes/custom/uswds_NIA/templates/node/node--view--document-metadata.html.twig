@@ -73,11 +73,6 @@
 <article{{ attributes }}>
 
   {{ title_prefix }}
-  {% if not page %}
-    <h2{{ title_attributes.addClass('margin-0') }}>
-      <a href="{{ url }}" rel="bookmark">{{ label }}</a>
-    </h2>
-  {% endif %}
   {{ title_suffix }}
 
   {% if display_submitted %}
@@ -91,47 +86,7 @@
   {% endif %}
 
   <div{{ content_attributes }}>
-    {# dpm(content) #}
-    <hr>
-    <div class="grid-row">
-      <a href="#" id="prevProjectBtn" class="usa-button usa-button--accent-cool">Previous</a>
-      <a href="#" id="nextProjectBtn" class="usa-button usa-button--accent-cool">Next</a>
-      <strong class="project-index">
-        Row 
-        <span id="currentProjectIndex"></span>
-        of 
-        <span id="projectTotal"></span>
-      </strong>
-    </div>
-    <div class="grid-row">
-      <div class="tablet:grid-col-8 margin-bottom-2">
-        <h2 class="display-inline-flex">Project Number:</h2> 
-        <span class="display-inline-flex text-bold" id="projectNumber">{{ content.field_project_number }} </span>
-        <br /><h2 class="display-inline-flex">Funded:</h2> 
-        <span class="display-inline-flex text-bold">{{ content.field_funded }} </span>
-        <a href="/document-metadata/{{ node.id }}" id="nextProjectBtn" data-dialog-options="{&quot;width&quot;:500}" data-dialog-type="dialog" class="use-ajax usa-button usa-button--outline">Metadata</a>
-        <h2>Abstract</h2>
-        <div class="abstract-container">
-          {{ content.field_abstract }}
-        </div>
-      </div>
-      
-      <div class="grid-col tablet:grid-col-4 right-body">
-        <div class="right-container">
-          <h3>Expert-assigned pre-codes:</h3>
-          {{ content.field_expert_assigned_pre_codes }}
-        </div>
-        <div class="right-container">
-          <h3>Auto-assigned codes:</h3>
-        </div>
-        <div class="right-container">
-          <h3>Expert-assigned codes:</h3>
-          {{ content.field_expert_assigned_codes }}
-          {{ content.field_audit_notes }}
-        </div>
-      </div>
-    </div>
-    
+    {{ content }}
   </div>
 
 </article>
