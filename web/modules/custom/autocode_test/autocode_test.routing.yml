@@ -1,0 +1,15 @@
+autocode_test.example:
+  path: '/autocode-test/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\autocode_test\Controller\AutocodeTestController::build'
+  requirements:
+    _permission: 'access content'
+
+autocode_test.settings_form:
+  path: '/admin/config/system/autocode-test'
+  defaults:
+    _title: 'autocode_test settings'
+    _form: 'Drupal\autocode_test\Form\SettingsForm'
+  requirements:
+    _permission: 'administer autocode_test configuration'

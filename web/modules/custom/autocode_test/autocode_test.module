@@ -1,0 +1,17 @@
+<?php
+use Drupal\node\NodeInterface;
+
+/**
+ * @file
+ * Primary module hooks for autocode_test module.
+ */
+function autocode_test_node_presave(NodeInterface $node) {
+  if ($node->getType() == "document") {
+    $node->set('field_auto_assigned_codes', [11]);
+
+    $values = $node->get('field_auto_assigned_codes')->getValue();
+    $values[0]['first'] = 222;
+    $values[0]['second'] = 222;
+    $node->set('field_auto_assigned_codes', $values);
+  }
+}

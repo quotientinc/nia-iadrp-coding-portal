@@ -1,0 +1,4 @@
+administer autocode_test configuration:
+  title: 'Administer autocode_test configuration'
+  description: 'Optional description.'
+  restrict access: true

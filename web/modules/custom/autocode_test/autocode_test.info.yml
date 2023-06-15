@@ -1,0 +1,5 @@
+name: autocode_test
+type: module
+description: programmatically update nodes
+package: Custom
+core_version_requirement: ^9 || ^10

@@ -1,0 +1,27 @@
+.ui-dialog{
+	.ui-dialog-titlebar{
+		.ui-dialog-title{
+			display: none;
+		}
+
+		&:after{
+			content: "Metadata";
+		}
+	}
+	.ui-dialog-content{
+		.metadata{
+			.views-field{
+				margin-bottom: 1rem;
+
+				.field-content{
+					display:inline;
+				}
+
+				.views-label{
+					font-weight:bold;
+					
+				}
+			}
+		}
+	}
+}

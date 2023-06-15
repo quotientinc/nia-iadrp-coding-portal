@@ -91,7 +91,7 @@
   {% endif %}
 
   <div{{ content_attributes }}>
-    {# dpm(content) #}
+    {{ dpm(content["field_auto_assigned_codes"]) }}
     <hr>
     <div class="grid-row">
       <a href="#" id="prevProjectBtn" class="usa-button usa-button--accent-cool">Previous</a>
@@ -109,7 +109,7 @@
         <span class="display-inline-flex text-bold" id="projectNumber">{{ content.field_project_number }} </span>
         <br /><h2 class="display-inline-flex">Funded:</h2> 
         <span class="display-inline-flex text-bold">{{ content.field_funded }} </span>
-        <a href="/document-metadata/{{ node.id }}" id="nextProjectBtn" data-dialog-options="{&quot;width&quot;:500}" data-dialog-type="dialog" class="use-ajax usa-button usa-button--outline">Metadata</a>
+        <a href="/document-metadata/{{ node.id }}" data-dialog-options="{&quot;width&quot;:500}" data-dialog-type="modal" class="meta-button use-ajax usa-button usa-button--outline">Metadata</a>
         <h2>Abstract</h2>
         <div class="abstract-container">
           {{ content.field_abstract }}
