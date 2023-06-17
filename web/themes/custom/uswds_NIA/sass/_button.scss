@@ -24,3 +24,19 @@
    right: 0;
    transform: translateY(5rem);
 }
+.autocode-button{
+   background-color: #ffffff;
+   margin: 5px;
+   width:100%;
+
+   &:hover{
+      background-color: #ffffff;
+   }
+
+   .double-field-first{
+      float:left;
+   }
+   .double-field-second{
+      float:right;
+   }
+}

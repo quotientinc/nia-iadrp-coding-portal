@@ -91,7 +91,7 @@
   {% endif %}
 
   <div{{ content_attributes }}>
-    {{ dpm(content["field_auto_assigned_codes"]) }}
+    {# dpm(content) #}
     <hr>
     <div class="grid-row">
       <a href="#" id="prevProjectBtn" class="usa-button usa-button--accent-cool">Previous</a>
@@ -123,6 +123,7 @@
         </div>
         <div class="right-container">
           <h3>Auto-assigned codes:</h3>
+          {{ content.field_auto_assigned_codes }}
         </div>
         <div class="right-container">
           <h3>Expert-assigned codes:</h3>
