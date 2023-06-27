@@ -38,4 +38,13 @@ jQuery(function ($) {
     	//project total
     	$("#projectTotal").html(projectIDs.length);
 	}
+
+
+	//vars for completion tracker
+	var completionCurrent = parseInt( $('#block-views-block-dataset-details-block-2 header').html());
+	var completionTotal = parseInt( $('#block-views-block-dataset-details-block-1 header').html());
+	var completionPercent= (((completionCurrent/completionTotal) * 100) + '%');
+	$('#datasetProgress').attr({"value":completionCurrent,"max":completionTotal});
+	$('#datasetProgress').html(completionPercent);
+	$('#datasetProgress').after("&nbsp;"+completionPercent);
 });
