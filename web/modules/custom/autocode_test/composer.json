@@ -1,0 +1,19 @@
+{
+    "name": "nia-34/lambda",
+    "require": {
+        "aws/aws-sdk-php": "^3.263",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nia34\\Lambda\\": "src/",
+            "Lambda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jbirkhimer",
+            "email": "jbirkhimer@quotient-inc.com"
+        }
+    ]
+}

@@ -1,21 +1,110 @@
 <?php
+
+require 'vendor/autoload.php';
 use Drupal\node\NodeInterface;
+use Drupal\Core\Form\FormStateInterface;
+use Lambda\NIACadroLambdaFunction;
 
 /**
  * @file
  * Primary module hooks for autocode_test module.
  */
 function autocode_test_node_presave(NodeInterface $node) {
-  if ($node->getType() == "document") {
-    //$node->set('field_auto_assigned_codes', [11]);
+    if ($node->getType() == "document") {
+        //$node->set('field_auto_assigned_codes', [11]);
+        $lambdaAbstract = $node->field_abstract[0]->value;
+        //\Drupal::messenger()->addMessage(t($lambdaAbstract));
 
-    $values = $node->get('field_auto_assigned_codes')->getValue();
-    $values[0]['first'] = 'one';
-    $values[0]['second'] = 222;
-    $values[1]['first'] = 'two';
-    $values[1]['second'] = 222;
-    $values[2]['first'] = 'three';
-    $values[2]['second'] = 222;
-    $node->set('field_auto_assigned_codes', $values);
-  }
+        $config = [
+        'profile' => 'default',
+        'region' => 'us-gov-west-1',
+        'version' => 'latest',
+        'aws_credentials_path' => __DIR__ . '/credentials.ini'
+        ];
+
+
+        $functionName = "arn:aws-us-gov:lambda:us-gov-west-1:129718225758:function:cadroInferenceAPI";
+
+        $post_data = array(
+
+            'body' => "[{\"abstract\":\"". $lambdaAbstract . "\"}]",
+           'httpMethod' => 'POST'
+
+        );
+        $post_data=json_encode($post_data);
+        //\Drupal::messenger()->addMessage($post_data);
+
+        /*$datasetFilePath = __DIR__ . "/samples/payload/Dataset_NIA.json";
+        if (isset($argv[1])) {
+            $datasetFilePath = realpath($argv[1]);
+        }*/
+        $json = $post_data;
+        //\Drupal::messenger()->addMessage($json);
+        echo "Invoking Lambda Function Using:\n";
+        echo "- config: ".json_encode($config)."\n";
+        echo "- function name: ".$functionName."\n";
+        echo "- payload: ".$datasetFilePath."\n";
+
+        $runner = new NIACadroLambdaFunction($config);
+        $result = $runner->run($functionName, $json);
+        \Drupal::messenger()->addMessage("Result: " . json_encode(json_decode($result), JSON_PRETTY_PRINT));
+
+        $lambdaResult = json_decode($result, true);
+        $values = $node->get('field_auto_assigned_codes')->getValue();
+        foreach($lambdaResult as $elem)  {
+            \Drupal::messenger()->addMessage(($elem['label1']. ", ".$elem['score1'] ));
+            $values[0]['first'] = $elem['label1'];
+            $values[0]['second'] = $elem['score1'];
+            $values[1]['first'] = $elem['label2'];
+            $values[1]['second'] = $elem['score2'];
+            $values[2]['first'] = $elem['label3'];
+            $values[2]['second'] = $elem['score3'];
+        }
+        //\Drupal::messenger()->addMessage($lambdaResult[0]);
+
+        
+        
+        $node->set('field_auto_assigned_codes', $values);
+
+    }
+
+
+}
+
+function autocode_test_form_alter(&$form, &$form_state, $form_id) {
+    if ($form_id=="feeds_feed_dataset_import_form"){
+        
+        //get feed id from URL
+        $uri_path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+        $uri_segments = explode('/', $uri_path);
+        //\Drupal::messenger()->addMessage(t($uri_segments[2]));
+
+        //get completion tracker display for dataset details view
+        $trackerView = \Drupal\views\Views::getView('dataset_details');
+        $trackerView->setArguments([$uri_segments[2]]);
+        $trackerView->setDisplay('block_2');
+        $trackerView->execute();
+
+        //get completion tracker display for dataset details view
+        $mainDetailsView = \Drupal\views\Views::getView('dataset_details');
+        $mainDetailsView->setArguments([$uri_segments[2]]);
+        $mainDetailsView->setDisplay('block_1');
+        $mainDetailsView->execute();
+
+        // Get the amount of results of the completion tracker view.
+        $tracker_view_result = $trackerView->total_rows;
+
+        // Get the amount of results of the completion tracker view.
+        $main_details_view_result = $mainDetailsView->total_rows;
+
+        //\Drupal::messenger()->addMessage($tracker_view_result);
+        //\Drupal::messenger()->addMessage($main_details_view_result);
+
+        if ($tracker_view_result != $main_details_view_result || $main_details_view_result == 0) {
+            $form['field_validated']['#disabled'] = TRUE;
+        }else{
+            $form['field_validated']['#disabled'] = FALSE;
+        }
+    }
+
 }
