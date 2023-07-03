@@ -47,4 +47,16 @@ jQuery(function ($) {
 	$('#datasetProgress').attr({"value":completionCurrent,"max":completionTotal});
 	$('#datasetProgress').html(completionPercent);
 	$('#datasetProgress').after("&nbsp;"+completionPercent);
+
+
+
+	$(document).on("click",".autocode-button", function () {
+	   var codeID = $(this).find('.double-field-first').html(); // or var clickedBtnID = this.id
+	   console.log('you clicked on button #' + codeID);
+	   //var dddd = $('#edit-field-expert-assigned-codes').val(codeID);
+	   $('#edit-field-expert-assigned-codes option[value="'+codeID+'"]').prop('selected', true);
+	   $('#edit-field-expert-assigned-codes').trigger('chosen:updated');
+
+	});
 });
+

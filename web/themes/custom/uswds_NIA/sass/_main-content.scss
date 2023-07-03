@@ -48,6 +48,21 @@ main{
 	    				padding: 1em;
 	    				border: 1px solid;
 	    				background-color: #f5fbff;
+
+	    				.chosen-container-multi{
+	    					height: auto;
+
+	    					.chosen-choices{
+	    						overflow: hidden;
+    							white-space: nowrap;
+
+    							li.search-choice span{
+    								display:block;
+    								text-overflow: ellipsis;
+    								overflow: hidden;
+    							}
+	    					}
+	    				}
 					}
 				}
 				

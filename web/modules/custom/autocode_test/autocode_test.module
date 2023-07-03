@@ -11,60 +11,64 @@ use Lambda\NIACadroLambdaFunction;
  */
 function autocode_test_node_presave(NodeInterface $node) {
     if ($node->getType() == "document") {
-        //$node->set('field_auto_assigned_codes', [11]);
-        $lambdaAbstract = $node->field_abstract[0]->value;
-        //\Drupal::messenger()->addMessage(t($lambdaAbstract));
-
-        $config = [
-        'profile' => 'default',
-        'region' => 'us-gov-west-1',
-        'version' => 'latest',
-        'aws_credentials_path' => __DIR__ . '/credentials.ini'
-        ];
-
-
-        $functionName = "arn:aws-us-gov:lambda:us-gov-west-1:129718225758:function:cadroInferenceAPI";
-
-        $post_data = array(
-
-            'body' => "[{\"abstract\":\"". $lambdaAbstract . "\"}]",
-           'httpMethod' => 'POST'
-
-        );
-        $post_data=json_encode($post_data);
-        //\Drupal::messenger()->addMessage($post_data);
-
-        /*$datasetFilePath = __DIR__ . "/samples/payload/Dataset_NIA.json";
-        if (isset($argv[1])) {
-            $datasetFilePath = realpath($argv[1]);
-        }*/
-        $json = $post_data;
-        //\Drupal::messenger()->addMessage($json);
-        echo "Invoking Lambda Function Using:\n";
-        echo "- config: ".json_encode($config)."\n";
-        echo "- function name: ".$functionName."\n";
-        echo "- payload: ".$datasetFilePath."\n";
-
-        $runner = new NIACadroLambdaFunction($config);
-        $result = $runner->run($functionName, $json);
-        \Drupal::messenger()->addMessage("Result: " . json_encode(json_decode($result), JSON_PRETTY_PRINT));
-
-        $lambdaResult = json_decode($result, true);
+        
         $values = $node->get('field_auto_assigned_codes')->getValue();
-        foreach($lambdaResult as $elem)  {
-            \Drupal::messenger()->addMessage(($elem['label1']. ", ".$elem['score1'] ));
-            $values[0]['first'] = $elem['label1'];
-            $values[0]['second'] = $elem['score1'];
-            $values[1]['first'] = $elem['label2'];
-            $values[1]['second'] = $elem['score2'];
-            $values[2]['first'] = $elem['label3'];
-            $values[2]['second'] = $elem['score3'];
-        }
-        //\Drupal::messenger()->addMessage($lambdaResult[0]);
+        if( !$values ){
+            //\Drupal::messenger()->addMessage($node->get('field_auto_assigned_codes')->getValue());
+            $lambdaAbstract = $node->field_abstract[0]->value;
 
-        
-        
-        $node->set('field_auto_assigned_codes', $values);
+            $config = [
+            'profile' => 'default',
+            'region' => 'us-gov-west-1',
+            'version' => 'latest',
+            'aws_credentials_path' => __DIR__ . '/credentials.ini'
+            ];
+
+
+            $functionName = "arn:aws-us-gov:lambda:us-gov-west-1:129718225758:function:cadroInferenceAPI";
+
+            $post_data = array(
+
+                'body' => "[{\"abstract\":\"". $lambdaAbstract . "\"}]",
+               'httpMethod' => 'POST'
+
+            );
+            $post_data=json_encode($post_data);
+
+            /*$datasetFilePath = __DIR__ . "/samples/payload/Dataset_NIA.json";
+            if (isset($argv[1])) {
+                $datasetFilePath = realpath($argv[1]);
+            }*/
+            $json = $post_data;
+            //\Drupal::messenger()->addMessage($json);
+            /*echo "Invoking Lambda Function Using:\n";
+            echo "- config: ".json_encode($config)."\n";
+            echo "- function name: ".$functionName."\n";
+            echo "- payload: ".$datasetFilePath."\n";*/
+
+            $runner = new NIACadroLambdaFunction($config);
+            $result = $runner->run($functionName, $json);
+            //\Drupal::messenger()->addMessage("Result: " . json_encode(json_decode($result), JSON_PRETTY_PRINT));
+
+            $lambdaResult = json_decode($result, true);
+            //$values = $node->get('field_auto_assigned_codes')->getValue();
+            foreach($lambdaResult as $elem)  {
+                //\Drupal::messenger()->addMessage(($elem['label1']. ", ".$elem['score1'] ));
+                $values[0]['first'] = ucfirst($elem['label1']);
+                $values[0]['second'] = $elem['score1'];
+                $values[1]['first'] = ucfirst($elem['label2']);
+                $values[1]['second'] = $elem['score2'];
+                $values[2]['first'] = ucfirst($elem['label3']);
+                $values[2]['second'] = $elem['score3'];
+                
+                //set score using highest value
+                $highestScore = max($elem['score1'],$elem['score2'],$elem['score3']);
+                $node->set('field_score', $highestScore);
+            }
+            
+            
+            $node->set('field_auto_assigned_codes', $values);
+        }
 
     }
 

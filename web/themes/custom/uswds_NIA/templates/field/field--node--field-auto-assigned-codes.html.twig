@@ -83,7 +83,11 @@
     <div>
       {% endif %}
       {% for item in items %}
-        <button type="button"{{ item.attributes.addClass('field__item').addClass(field_classes) }}>{{ item.content }}</button>
+        <button type="button"{{ item.attributes.addClass('field__item').addClass(field_classes) }}>{{ item.content }}
+          <svg class="usa-icon" aria-hidden="true" focusable="false" role="img">
+            <use xlink:href="/{{ base_path ~ directory }}/assets/uswds/img/sprite.svg#arrow_drop_down"></use>
+          </svg>
+        </button>
       {% endfor %}
       {% if multiple %}
     </div>

@@ -1,0 +1,315 @@
+A__|A.. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124;  &#124;
+A_1_|A.1. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124;
+A_1_a|A.1.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124; APP Structure and Function
+A_1_b|A.1.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124; APP Processing
+A_1_c|A.1.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124; APP and Amyloid beta Signaling
+A_1_d|A.1.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124; Secretases
+A_1_e|A.1.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124; Amyloid beta Clearance
+A_1_f|A.1.f Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124; Amyloid beta Structure, Assembly, and Aggregation
+A_1_g|A.1.g Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Amyloid beta &#124; Amyloid beta-Mediated Pathogenesis
+A_2_|A.2. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Tau &#124;
+A_2_a|A.2.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Tau &#124; Normal Functions of Tau
+A_2_b|A.2.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Tau &#124; Tau Phosphorylation, Metabolism, and Assembly
+A_2_c|A.2.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Tau &#124; Tau-Mediated Pathogenesis (AD and ADRD)
+A_3_|A.3. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Presenilin Biology &#124;
+A_3_a|A.3.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Presenilin Biology &#124; Structure-Function Analysis
+A_3_b|A.3.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Presenilin Biology &#124; Calcium Signaling
+A_4_|A.4. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124;
+A_4_a|A.4.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; ApoE in Abeta-mediated pathogenesis
+A_4_c|A.4.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; ApoE Structure and Function
+A_4_d|A.4.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; Brain Lipid Metabolism
+A_4_e|A.4.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; Lipid-Mediated Signaling
+A_4_b|A.4.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; ApoE in pathogenesis independent of Abeta
+A_4_f|A.4.f Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; Lipoprotein Receptors
+A_4_g|A.4.g Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; Nuclear Receptors
+A_4_h|A.4.h Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; ApoE and Lipid Neurobiology &#124; Myelin
+A_5_|A.5. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Other Proteinopathies &#124;
+A_5_a|A.5.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Other Proteinopathies &#124; Alpha-Synuclein
+A_5_b|A.5.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Other Proteinopathies &#124; TDP-43 and FUS
+A_5_c|A.5.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Other Proteinopathies &#124; C90RF-72 and Progranulin
+A_5_d|A.5.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Other Proteinopathies &#124; Prions
+A_5_e|A.5.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Other Proteinopathies &#124; Other
+A_6_|A.6. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Autophagy, Endocytosis and Membrane Trafficking &#124;
+A_6_a|A.6.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Autophagy, Endocytosis and Membrane Trafficking &#124; Proteostasis
+A_6_b|A.6.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Autophagy, Endocytosis and Membrane Trafficking &#124; Exosome (i.e., Extracellular vesicles)
+A_6_c|A.6.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Autophagy, Endocytosis and Membrane Trafficking &#124; Endosomal/Lysosomal Dysfunction
+A_7_|A.7. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Circuits and Synapses &#124;
+A_7_a|A.7.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Circuits and Synapses &#124; Synaptic Plasticity and Synaptic Dysfunction
+A_7_b|A.7.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Circuits and Synapses &#124; Selective Vulnerability
+A_7_c|A.7.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Circuits and Synapses &#124; Neurotransmitter Receptors Structure and Function
+A_7_d|A.7.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Circuits and Synapses &#124; Network Function and Failure
+A_7_e|A.7.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Circuits and Synapses &#124; Neurogenesis
+A_8_|A.8. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124;
+A_8_a|A.8.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124; Apoptosis
+A_8_b|A.8.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124; Oxidative Stress
+A_8_c|A.8.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124; Autophagy-Mediated Cell Death
+A_8_d|A.8.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124; Calcium-Mediated Cell Death
+A_8_e|A.8.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124; Cell Cycle Re-Entry
+A_8_f|A.8.f Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124; Ubiquitin Protease System
+A_8_g|A.8.g Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Cell Death &#124; Presenilin-Mediated Cell Death
+A_9_|A.9. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124;
+A_9_a|A.9.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Astrocyte mediated
+A_9_b|A.9.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Microglia mediated
+A_9_c|A.9.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Innate Immunity
+A_9_d|A.9.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Immunotherapy-Mechanisms of action
+A_9_e|A.9.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Calcium-related Inflammation Mediators
+A_9_f|A.9.f Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Complement Mediators of Inflammation
+A_9_g|A.9.g Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Role of chemokines/cytokines
+A_9_h|A.9.h Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Immunity and Inflammation &#124; Other
+A_10_|A.10. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Metabolism and Bioenergetics &#124;
+A_10_a|A.10.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Metabolism and Bioenergetics &#124; Mitochondrial bioenergetics
+A_11_b|A.11.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Vascular Etiology &#124; BBB and Neurovascular Unit
+A_11_c|A.11.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Vascular Etiology &#124; Hypertension
+A_11_d|A.11.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Vascular Etiology &#124; Atherosclerosis
+A_10_b|A.10.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Metabolism and Bioenergetics &#124; Insulin Resistance and Type II Diabetes
+A_10_c|A.10.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Metabolism and Bioenergetics &#124; Dyslipidemia
+A_10_d|A.10.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Metabolism and Bioenergetics &#124; Obesity
+A_10_e|A.10.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Metabolism and Bioenergetics &#124; Metabolic Syndrome
+A_10_f|A.10.f Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Metabolism and Bioenergetics &#124; CNS Glucose
+A_11_|A.11. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Vascular Etiology &#124;
+A_11_a|A.11.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Vascular Etiology &#124; Cardiovascular and Cerebrovascular dysfunction
+A_11_e|A.11.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Vascular Etiology &#124; Cerebral Amyloid Angiopathy
+A_11_f|A.11.f Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Vascular Etiology &#124; Lymphatic/glymphatic system dysfunction
+A_12_|A.12. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Neuroendocrine Mechanisms &#124;
+A_12_a|A.12.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Neuroendocrine Mechanisms &#124; Sex Hormones
+A_12_b|A.12.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Neuroendocrine Mechanisms &#124; Growth Hormones
+A_12_c|A.12.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Neuroendocrine Mechanisms &#124; Stress Hormones/HPA Axis
+A_13_|A.13. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Molecular Mechanisms of Neuroprotection and Resilience &#124;
+A_14_|A.14. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Gut-Brain Axis and Microbiome &#124;
+A_15_|A.15. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Sleep and Circadian Rhythm &#124;
+A_16_|A.16. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Environmental Factors &#124;
+A_16_a|A.16.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Environmental Factors &#124; Chemical pollutants
+A_16_b|A.16.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Environmental Factors &#124; Metal pollutants
+A_16_c|A.16.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Environmental Factors &#124; Air pollutants
+A_16_d|A.16.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Environmental Factors &#124; Psychosocial Factors
+A_16_e|A.16.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Environmental Factors &#124; Other
+A_17_|A.17. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124;
+A_17_a|A.17.a Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Genome-Wide Association Studies and imputation analysis
+A_17_b|A.17.b Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Next generation sequencing (i.e., WGS, whole exome)
+A_17_c|A.17.c Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Genetic Architecture (Genetic variation and Chromosome Structure)
+A_17_d|A.17.d Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Gene-Gene and Gene Environment Interactions
+A_17_e|A.17.e Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Nucleic acid-related \"omics\" studies (Epigenetics and Epigenomic and Transcriptomics, Expression Profiling)
+A_17_f|A.17.f Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Gene editing
+A_17_g|A.17.g Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Disease Pathway Identification (gene cluster and network analysis)
+A_17_h|A.17.h Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Genetic Data Sharing and Analysis
+A_17_i|A.17.i Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Genetics &#124; Functional Validation of Genetic Risk and Protective Factors
+A_18_|A.18. Molecular Pathogenesis and Physiology of Alzheimer's Disease and Alzheimer's Disease-related Dementias (AD/ADRDs) &#124; Other Pathogenic Mechanisms &#124;
+B__|B.. Diagnosis, Assessment, and Disease Monitoring &#124;  &#124;
+B_1_|B.1. Diagnosis, Assessment, and Disease Monitoring &#124; Fluid Biomarkers &#124;
+B_1_a|B.1.a Diagnosis, Assessment, and Disease Monitoring &#124; Fluid Biomarkers &#124; CSF Biomarkers
+B_1_b|B.1.b Diagnosis, Assessment, and Disease Monitoring &#124; Fluid Biomarkers &#124; Blood-based Biomarkers
+B_1_c|B.1.c Diagnosis, Assessment, and Disease Monitoring &#124; Fluid Biomarkers &#124; Urine Biomarkers
+B_1_d|B.1.d Diagnosis, Assessment, and Disease Monitoring &#124; Fluid Biomarkers &#124; Saliva-based Biomarkers
+B_1_e|B.1.e Diagnosis, Assessment, and Disease Monitoring &#124; Fluid Biomarkers &#124; Multi-fluid Biomarkers
+B_2_|B.2. Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124;
+B_2_a|B.2.a Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; PET Amyloid Imaging
+B_2_b|B.2.b Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; PET Tau Imaging
+B_2_c|B.2.c Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; PET Other Imaging
+B_2_d|B.2.d Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; Functional MRI
+B_2_e|B.2.e Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; Structural MRI
+B_2_f|B.2.f Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; Diffusion Tensor Imaging
+B_2_g|B.2.g Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; Retinal Imaging
+B_2_h|B.2.h Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; SPECT
+B_2_i|B.2.i Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; MR Microscopy
+B_2_j|B.2.j Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; Multiple Imaging
+B_2_k|B.2.k Diagnosis, Assessment, and Disease Monitoring &#124; Imaging Biomarkers &#124; Other Imaging Modalities
+B_3_|B.3. Diagnosis, Assessment, and Disease Monitoring &#124; Traditional Assessments &#124;
+B_4_|B.4. Diagnosis, Assessment, and Disease Monitoring &#124; Personal assessments (using wearable and mobile technology) &#124;
+B_5_|B.5. Diagnosis, Assessment, and Disease Monitoring &#124; Re-Purposed Biomarkers &#124;
+B_5_a|B.5.a Diagnosis, Assessment, and Disease Monitoring &#124; Re-Purposed Biomarkers &#124; Cardiovascular
+B_5_b|B.5.b Diagnosis, Assessment, and Disease Monitoring &#124; Re-Purposed Biomarkers &#124; Hormonal
+B_5_c|B.5.c Diagnosis, Assessment, and Disease Monitoring &#124; Re-Purposed Biomarkers &#124; Genetic (Micro-RNAs)
+B_5_d|B.5.d Diagnosis, Assessment, and Disease Monitoring &#124; Re-Purposed Biomarkers &#124; White Matter Lesions/Damage
+B_5_e|B.5.e Diagnosis, Assessment, and Disease Monitoring &#124; Re-Purposed Biomarkers &#124; Other
+B_6_|B.6. Diagnosis, Assessment, and Disease Monitoring &#124; Emerging Biomarkers &#124;
+B_6_a|B.6.a Diagnosis, Assessment, and Disease Monitoring &#124; Emerging Biomarkers &#124; Genomic
+B_6_b|B.6.b Diagnosis, Assessment, and Disease Monitoring &#124; Emerging Biomarkers &#124; Proteomic
+B_6_c|B.6.c Diagnosis, Assessment, and Disease Monitoring &#124; Emerging Biomarkers &#124; Metabolomic
+B_6_d|B.6.d Diagnosis, Assessment, and Disease Monitoring &#124; Emerging Biomarkers &#124; Multi-omics
+B_6_e|B.6.e Diagnosis, Assessment, and Disease Monitoring &#124; Emerging Biomarkers &#124; Other
+B_7_|B.7. Diagnosis, Assessment, and Disease Monitoring &#124; Multimodal Biomarkers &#124;
+B_8_|B.8. Diagnosis, Assessment, and Disease Monitoring &#124; Novel Analyses, Methodologies and Techniques for Biomarker Discovery and Validation &#124;
+B_9_|B.9. Diagnosis, Assessment, and Disease Monitoring &#124; Other &#124;
+C__|C.. Translational Research and Clinical Interventions &#124;  &#124;
+C_1_|C.1. Translational Research and Clinical Interventions &#124; Research Resources and Enabling Technologies to Accelerate Therapy Development &#124;
+C_1_a|C.1.a Translational Research and Clinical Interventions &#124; Research Resources and Enabling Technologies to Accelerate Therapy Development &#124; Enabling Technologies (i.e., iPS cells)
+C_2_|C.2. Translational Research and Clinical Interventions &#124; Identification and Validation of Novel Targets &#124;
+C_3_|C.3. Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124;
+C_3_a|C.3.a Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Amyloid beta
+C_3_b|C.3.b Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Tau
+C_1_b|C.1.b Translational Research and Clinical Interventions &#124; Research Resources and Enabling Technologies to Accelerate Therapy Development &#124; Translational Bioinformatics and Multi-scale Modeling (i.e., Drug repurposing)
+C_1_c|C.1.c Translational Research and Clinical Interventions &#124; Research Resources and Enabling Technologies to Accelerate Therapy Development &#124; Translational Infrastructure (i.e., MODEL-AD, ACTC)
+C_3_c|C.3.c Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; ApoE, Lipids, and Lipoprotein Receptors
+C_3_d|C.3.d Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Neurotransmitter Receptors
+C_3_e|C.3.e Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Neurogenesis
+C_3_f|C.3.f Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Inflammation
+C_3_g|C.3.g Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Oxidative Stress
+C_3_h|C.3.h Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Cell death
+C_3_i|C.3.i Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Proteostasis/Proteinopathies
+C_3_j|C.3.j Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Metabolism and Bioenergetics
+C_3_k|C.3.k Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Vasculature
+C_3_l|C.3.l Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Growth Factors and Hormones
+C_3_m|C.3.m Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Synaptic plasticity/neuroprotection
+C_3_n|C.3.n Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Gut-Brain Axis
+C_3_o|C.3.o Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Circadian Rhythm
+C_3_p|C.3.p Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Environmental Factors
+C_3_q|C.3.q Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Epigenetic Regulators
+C_3_r|C.3.r Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Multi-target
+C_3_s|C.3.s Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Unknown target
+C_3_t|C.3.t Translational Research and Clinical Interventions &#124; Drug Discovery (small molecules and biologics), including assay development &#124; Other
+C_4_|C.4. Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124;
+C_4_a|C.4.a Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Amyloid beta
+C_4_b|C.4.b Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Tau
+C_4_c|C.4.c Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; ApoE, Lipids, and Lipoprotein Receptors
+C_4_d|C.4.d Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Neurotransmitter Receptors
+C_4_e|C.4.e Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Neurogenesis
+C_4_f|C.4.f Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Inflammation
+C_4_g|C.4.g Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Oxidative Stress
+C_4_h|C.4.h Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Cell death
+C_4_i|C.4.i Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Proteostasis/Proteinopathies
+C_4_j|C.4.j Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Metabolism and Bioenergetics
+C_4_k|C.4.k Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Vasculature
+C_4_l|C.4.l Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Growth Factors and Hormones
+C_4_m|C.4.m Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Synaptic plasticity/neuroprotection
+C_4_n|C.4.n Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Gut-Brain Axis
+C_4_o|C.4.o Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Circadian Rhythm
+C_4_p|C.4.p Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Environmental Factors
+C_4_q|C.4.q Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Epigenetic Regulators
+C_4_r|C.4.r Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Multi-target
+C_4_s|C.4.s Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Unknown target
+C_4_t|C.4.t Translational Research and Clinical Interventions &#124; Non-clinical Drug Development (small molecules and biologics), including toxicology studies &#124; Other
+C_5_|C.5. Translational Research and Clinical Interventions &#124; Non-clinical Proof of Concept for Non-Pharmacological Interventions &#124;
+C_5_a|C.5.a Translational Research and Clinical Interventions &#124; Non-clinical Proof of Concept for Non-Pharmacological Interventions &#124; Exercise
+C_5_b|C.5.b Translational Research and Clinical Interventions &#124; Non-clinical Proof of Concept for Non-Pharmacological Interventions &#124; Diet
+C_5_c|C.5.c Translational Research and Clinical Interventions &#124; Non-clinical Proof of Concept for Non-Pharmacological Interventions &#124; Environmental Enrichment
+C_5_d|C.5.d Translational Research and Clinical Interventions &#124; Non-clinical Proof of Concept for Non-Pharmacological Interventions &#124; Sleep-related
+C_5_e|C.5.e Translational Research and Clinical Interventions &#124; Non-clinical Proof of Concept for Non-Pharmacological Interventions &#124; Combination therapy
+C_5_f|C.5.f Translational Research and Clinical Interventions &#124; Non-clinical Proof of Concept for Non-Pharmacological Interventions &#124; Other
+C_6_|C.6. Translational Research and Clinical Interventions &#124; Clinical Trial Design &#124;
+C_7_a|C.7.a Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Amyloid beta
+C_7_b|C.7.b Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Tau
+C_7_|C.7. Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124;
+C_7_c|C.7.c Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; ApoE, Lipids, and Lipoprotein Receptors
+C_7_d|C.7.d Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Neurotransmitter Receptors
+C_7_e|C.7.e Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Neurogenesis
+C_7_f|C.7.f Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Inflammation
+C_7_g|C.7.g Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Oxidative Stress
+C_7_h|C.7.h Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Cell death
+C_7_i|C.7.i Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Proteostasis/Proteinopathies
+C_7_j|C.7.j Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Metabolism and Bioenergetics
+C_7_k|C.7.k Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Vasculature
+C_7_l|C.7.l Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Growth Factors and Hormones
+C_7_m|C.7.m Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Synaptic plasticity/neuroprotection
+C_7_n|C.7.n Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Gut-Brain Axis
+C_7_o|C.7.o Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Circadian Rhythm
+C_7_p|C.7.p Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Environmental Factors
+C_7_q|C.7.q Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Epigenetic Regulators
+C_7_r|C.7.r Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Multi-target
+C_7_s|C.7.s Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Unknown target
+C_7_t|C.7.t Translational Research and Clinical Interventions &#124; Early-stage Clinical Drug Development (Phase I and Phase II Clinical Trials) &#124; Other
+C_8_t|C.8.t Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Other
+C_9_|C.9. Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124;
+C_8_|C.8. Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124;
+C_8_a|C.8.a Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Amyloid beta
+C_8_b|C.8.b Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Tau
+C_8_c|C.8.c Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; ApoE, Lipids, and Lipoprotein Receptors
+C_8_d|C.8.d Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Neurotransmitter Receptors
+C_8_e|C.8.e Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Neurogenesis
+C_8_f|C.8.f Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Inflammation
+C_8_g|C.8.g Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Oxidative Stress
+C_8_h|C.8.h Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Cell death
+C_8_i|C.8.i Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Proteostasis/Proteinopathies
+C_8_j|C.8.j Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Metabolism and Bioenergetics
+C_8_k|C.8.k Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Vasculature
+C_8_l|C.8.l Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Growth Factors and Hormones
+C_8_m|C.8.m Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Synaptic plasticity/neuroprotection
+C_8_n|C.8.n Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Gut-Brain Axis
+C_8_o|C.8.o Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Circadian Rhythm
+C_8_p|C.8.p Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Environmental Factors
+C_8_q|C.8.q Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Epigenetic Regulators
+C_8_r|C.8.r Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Multi-target
+C_8_s|C.8.s Translational Research and Clinical Interventions &#124; Late-Stage Clinical Drug Development (Phase II/III and III Clinical Trials) &#124; Unknown target
+C_9_a|C.9.a Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124; Exercise
+C_9_b|C.9.b Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124; Diet
+C_9_c|C.9.c Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124; Cognitive Training
+C_9_d|C.9.d Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124; Sleep-related
+C_9_e|C.9.e Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124; Neurostimulation
+C_9_f|C.9.f Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124; Combination therapy
+C_9_g|C.9.g Translational Research and Clinical Interventions &#124; Non-Pharmacological Interventions &#124; Other
+C_10_|C.10. Translational Research and Clinical Interventions &#124; Clinical Therapy Development for Neuropsychiatric Symptoms of Dementia &#124;
+C_10_a|C.10.a Translational Research and Clinical Interventions &#124; Clinical Therapy Development for Neuropsychiatric Symptoms of Dementia &#124; Pharmacological
+C_10_b|C.10.b Translational Research and Clinical Interventions &#124; Clinical Therapy Development for Neuropsychiatric Symptoms of Dementia &#124; Non-Pharmacological
+C_11_|C.11. Translational Research and Clinical Interventions &#124; Clinical Ethics &#124;
+C_12_|C.12. Translational Research and Clinical Interventions &#124; Other &#124;
+D__|D.. Population Studies &#124;  &#124;
+E__|E.. Dementia Care and Impact of Disease &#124;  &#124;
+E_1_|E.1. Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124;
+E_1_a|E.1.a Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Interventions in formal care settings (i.e.., acute care systems, short stay program)
+E_1_b|E.1.b Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Interventions in home or informal care settings (focused on person with dementia)
+E_1_c|E.1.c Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Assessing quality of care/life of person with dementia
+E_1_d|E.1.d Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Advanced care directives/planning interventions in formal care settings
+E_1_h|E.1.h Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Care Coordination
+E_2_g|E.2.g Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Care Coordination
+E_2_h|E.2.h Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Other
+E_1_e|E.1.e Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Palliative care/End-of-life
+E_1_f|E.1.f Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Staff Training and Professional Development
+E_1_g|E.1.g Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Long-term services and supports supporting person(s) with dementia
+E_1_i|E.1.i Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Care and Quality of Life for Persons with Dementia &#124; Other
+E_2_|E.2. Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124;
+E_2_a|E.2.a Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Caregiver Assessments
+E_2_b|E.2.b Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Caregiver tools, training and education
+E_2_c|E.2.c Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Intervention design for improving caregiver health and well-being
+E_2_d|E.2.d Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Intervention design for improving surrogate communication and decision making
+E_2_e|E.2.e Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Couple-based and family-based interventions
+E_2_f|E.2.f Dementia Care and Impact of Disease &#124; Identifying, Assessing and Improving Quality of Life and Care provided by Family or Informal Caregivers &#124; Long-term care services and support
+E_3_|E.3. Dementia Care and Impact of Disease &#124; Environmental Modifications and Technology Assisted Monitoring and Care &#124;
+E_3_a|E.3.a Dementia Care and Impact of Disease &#124; Environmental Modifications and Technology Assisted Monitoring and Care &#124; Personal Device Assisted Care/Wearables
+E_3_b|E.3.b Dementia Care and Impact of Disease &#124; Environmental Modifications and Technology Assisted Monitoring and Care &#124; Remote monitoring tools/sensors
+E_3_c|E.3.c Dementia Care and Impact of Disease &#124; Environmental Modifications and Technology Assisted Monitoring and Care &#124; Robotic-assisted care
+E_3_d|E.3.d Dementia Care and Impact of Disease &#124; Environmental Modifications and Technology Assisted Monitoring and Care &#124; Environmental Modifications
+E_3_e|E.3.e Dementia Care and Impact of Disease &#124; Environmental Modifications and Technology Assisted Monitoring and Care &#124; TV/Video Assisted Care
+E_3_f|E.3.f Dementia Care and Impact of Disease &#124; Environmental Modifications and Technology Assisted Monitoring and Care &#124; Other Technology Assisted Care
+E_4_|E.4. Dementia Care and Impact of Disease &#124; Health Disparities &#124;
+E_5_|E.5. Dementia Care and Impact of Disease &#124; Socioeconomic Impact of Dementia &#124;
+E_5_a|E.5.a Dementia Care and Impact of Disease &#124; Socioeconomic Impact of Dementia &#124; Family-based economic impact
+E_5_b|E.5.b Dementia Care and Impact of Disease &#124; Socioeconomic Impact of Dementia &#124; Societal-based economic impact
+E_5_c|E.5.c Dementia Care and Impact of Disease &#124; Socioeconomic Impact of Dementia &#124; Caregiving/Workforce Shortage
+E_6_|E.6. Dementia Care and Impact of Disease &#124; Other &#124;
+F__|F.. Research Resources &#124;  &#124;
+F_1_|F.1. Research Resources &#124; Alzheimer’s Disease Centers &#124;
+F_2_|F.2. Research Resources &#124; Other Types of Cores or Centers &#124;
+F_3_|F.3. Research Resources &#124; Professional and Career Development &#124;
+F_3_a|F.3.a Research Resources &#124; Professional and Career Development &#124; Faculty Recruitment
+F_3_b|F.3.b Research Resources &#124; Professional and Career Development &#124; Fellowships
+F_3_c|F.3.c Research Resources &#124; Professional and Career Development &#124; Career Development (Ks, Travel grants)
+F_3_d|F.3.d Research Resources &#124; Professional and Career Development &#124; Training Grants (e.g., T32)
+F_3_e|F.3.e Research Resources &#124; Professional and Career Development &#124; Conferences/Workshops/Symposia
+F_4_|F.4. Research Resources &#124; Repositories, Bioinformatics and Resources &#124;
+F_4_a|F.4.a Research Resources &#124; Repositories, Bioinformatics and Resources &#124; Biobanks
+F_4_b|F.4.b Research Resources &#124; Repositories, Bioinformatics and Resources &#124; Data Repositories
+F_4_c|F.4.c Research Resources &#124; Repositories, Bioinformatics and Resources &#124; Bioinformatics
+F_5_|F.5. Research Resources &#124; Infrastructure &#124;
+F_6_|F.6. Research Resources &#124; Disease Models &#124;
+F_6_a|F.6.a Research Resources &#124; Disease Models &#124; Invertebrates
+F_6_b|F.6.b Research Resources &#124; Disease Models &#124; Vertebrates
+F_6_c|F.6.c Research Resources &#124; Disease Models &#124; Rodents
+F_6_d|F.6.d Research Resources &#124; Disease Models &#124; Higher Mammals
+F_6_e|F.6.e Research Resources &#124; Disease Models &#124; iPS Cells
+F_7_|F.7. Research Resources &#124; Other &#124;
+G__|G.. Consortia and Public Private Partnerships &#124;  &#124;
+G_1_|G.1. Consortia and Public Private Partnerships &#124; Consortia &#124;
+G_2_|G.2. Consortia and Public Private Partnerships &#124; Public Private Partnership &#124;
+H__|H.. Brain Aging and Common Mechanisms Related to Dementias &#124;  &#124;
+H_1_|H.1. Brain Aging and Common Mechanisms Related to Dementias &#124; Brain Aging &#124;
+H_1_a|H.1.a Brain Aging and Common Mechanisms Related to Dementias &#124; Brain Aging &#124; Basic Research
+H_1_b|H.1.b Brain Aging and Common Mechanisms Related to Dementias &#124; Brain Aging &#124; Translational Research
+H_1_c|H.1.c Brain Aging and Common Mechanisms Related to Dementias &#124; Brain Aging &#124; Clinical Research and Epidemiology
+H_2_|H.2. Brain Aging and Common Mechanisms Related to Dementias &#124; Common Mechanisms Related to Dementias &#124;
+X__|X.. Not Dementia &#124;  &#124;
+H_2_a|H.2.a Brain Aging and Common Mechanisms Related to Dementias &#124; Common Mechanisms Related to Dementias &#124; Basic Research
+H_2_b|H.2.b Brain Aging and Common Mechanisms Related to Dementias &#124; Common Mechanisms Related to Dementias &#124; Translational Research
+H_2_c|H.2.c Brain Aging and Common Mechanisms Related to Dementias &#124; Common Mechanisms Related to Dementias &#124; Clinical Research and Epidemiology
+D_1_|D.1. Population Studies &#124; U.S.-Based Cohorts &#124;
+D_2_|D.2. Population Studies &#124; Multinational Cohorts &#124;
+D_3_|D.3. Population Studies &#124; International Cohorts &#124;
+D_4_|D.4. Population Studies &#124; Other &#124;
